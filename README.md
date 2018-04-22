@@ -1,6 +1,6 @@
 # Naive Bayes classifier implementation
 
-An implementation of Naive Bayes classifier (multinominal) used for recognition of emoticon in polish sentences.
+An implementation of Naive Bayes classifier (multinomial) used for recognition of emoticon in polish sentences.
 
 Each sentence is preprocessed (lowecasing, tokenization, stop words removal and stemming ) with Natural Language Toolkit.  
 
